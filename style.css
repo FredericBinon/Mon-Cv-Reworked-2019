@@ -1,0 +1,171 @@
+body{
+  background-color: #262626;
+    color: #3F6862;
+    margin: 0;
+}
+
+body div{
+  font-family:"Comic Sans MS", cursive, sans-serif;
+}
+
+header{
+  font-size: 15px;
+  margin: 0px;
+  padding-top: 15px;
+  padding-left: 5.05%;
+  width: 199.9em;
+  height: 270px;
+  position:fixed;
+  background-color:#262626;
+}
+
+#présentation{
+  background-color: #0d0d0d;
+  width:70.45%;
+  position:fixed;
+  margin: 10px 6px 5px 2.5px;
+  padding: 20px 10em 15px 9em;
+  display:flex;
+  border: 3px solid #4d4d4d;
+  border-bottom: none;
+  border-radius: 5px;
+  border-bottom-left-radius:0px;
+  border-bottom-right-radius: 0px;
+}
+
+#naissance {
+  padding: 0 10em;
+  text-align: center;
+  margin: auto 10em auto 10em;
+  border-left: 3px solid #4d4d4d;
+  border-right: 3px solid #4d4d4d;
+}
+
+#photo{
+  margin-top: 20px;
+  width: 180px;
+}
+
+main{
+  font-size: 15px;
+  margin: 0px auto 0px auto;
+  width:89.6%;
+  padding-top: 365px;
+}
+
+main div{
+  padding-left: 9em;
+  padding-right:10em;
+  background-color: #0d0d0d;
+  padding-bottom: 5px;
+}
+
+h4{
+  background-color: #374F3E;
+  height: 25px;
+  padding: 4px 0px 0px 50px;
+  color: #8C9B99;
+  margin-bottom: 30px;
+}
+
+.parties{
+  padding: 20px 0px;
+  margin-bottom: 20px;
+  border: 3px solid #7D7D7D;
+  border-bottom: none;
+  border-top: none;
+}
+
+.nomjob{
+  text-align: left;
+}
+
+.dategauche {
+  margin-left: 50px;
+}
+
+.droite{
+  float:right;
+  margin-top: -55px;
+  text-align: center;
+}
+
+#ProxCol{
+  float:right;
+  margin-top: -90px;
+  text-align: right;
+}
+
+.tfe{
+  margin-top: 40px;
+  margin-bottom: 70px;
+}
+
+#etudes{
+  float:right;
+  margin-top: -280px;
+  margin-left: 200px;
+  text-align: right;
+}
+
+#listes{
+  padding: 0;
+}
+#titrelangues{
+
+}
+
+#Langues{
+
+}
+
+#titreinformatique{
+  float:right;
+  text-align: left;
+  margin-top: -30px;
+  margin-right: 300px;
+}
+
+#Informatique{
+  float:right;
+  margin-top: -150px;
+  text-align: center;
+}
+
+footer{
+  background-color: #0d0d0d;
+  width: 84.9em;
+  padding: 5px 0px 0px 0px;
+  margin: 10px 0px 40px 4.9em;
+  display:flex;
+  border: 3px solid #4d4d4d;
+  border-top: none;
+  border-radius: 5px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+
+#intérêts{
+  padding-top: 20px;
+  border-radius: 5px;
+  padding-bottom: 20px;
+  width:100%;
+}
+
+#hobbys{
+  margin: 0px 140px 20px 140px;
+}
+
+.dessin{
+  text-align: center;
+  margin-right: 350px;
+}
+
+.karting{
+  text-align: center;
+  margin-left: 350px;
+}
+
+.ordinateur{
+  text-align: right;
+}
